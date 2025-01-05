@@ -1,5 +1,4 @@
-package org.example;
-
+package queue;
 import java.util.LinkedList;
 
 class Queue<T> {
