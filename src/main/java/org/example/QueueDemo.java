@@ -2,12 +2,10 @@ package org.example;
 public class QueueDemo {
     public static void main(String[] args) {
         Queue<Integer> queue = new Queue<>();
-
         // Enqueue elements onto the queue
         queue.enqueue(56);
         queue.enqueue(30);
         queue.enqueue(70);
-
         // Display the queue after enqueue operations
         System.out.println("Queue after enqueuing elements:");
         queue.displayQueue();
