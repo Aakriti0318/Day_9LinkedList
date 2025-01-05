@@ -1,4 +1,4 @@
-import org.example.Linkedlist;
+import org.LinkedList.Linkedlist;
 class Node<T extends Comparable<T>> {
     T data;
     Node<T> next;

@@ -1,4 +1,4 @@
-package org.example;
+package org.LinkedList;
 import java.util.LinkedList;
 
 class Node {
